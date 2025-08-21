@@ -7,7 +7,6 @@ st.set_page_config(page_title="Idioms Trainer", page_icon="📘", layout="wide")
 # ----------------------- Styling -----------------------
 st.markdown("""
 <style>
-.font-family: "Times New Roman", Times, serif;
 .big-btn button {font-size:1.05rem; padding:0.6rem 1.2rem; border-radius:12px}
 .score-badge {display:inline-block; padding:.35rem .8rem; border-radius:999px; background:#eef6ff; color:#1f4b99; font-weight:600}
 .card {background:#111418; border:1px solid #1f2430; padding:22px; border-radius:16px; box-shadow: 0 6px 24px rgba(0,0,0,.25)}
